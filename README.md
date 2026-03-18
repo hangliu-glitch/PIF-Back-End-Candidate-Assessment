@@ -64,5 +64,3 @@ Provide a URL link to the GitHub project containing the following:
 ---
 
 **Please fill up the submission form for review.**
-
-Would you like me to suggest a standard Go project structure for this assignment or help you draft the `docker-compose.yml` template?
